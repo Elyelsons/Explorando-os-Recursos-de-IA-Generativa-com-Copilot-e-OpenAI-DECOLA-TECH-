@@ -1,0 +1,19 @@
+📜 1. Geração de Textos
+💡 Objetivo: Criar textos criativos, publicitários ou informativos.
+
+🔹 Prompt para gerar um artigo:
+
+"Escreva um artigo detalhado sobre como a IA generativa está revolucionando o marketing digital. Inclua exemplos práticos, tendências futuras e desafios."
+
+🔹 Prompt para branding e logos:
+
+"Gere um logo moderno e minimalista para uma startup de tecnologia chamada ‘NeuroLink’, com cores azul e prata e um ícone abstrato representando conectividade."
+
+🔹 Prompt para personagens e cenários:
+
+"Crie um personagem feminino guerreiro com armadura dourada e uma espada futurista, em um cenário de um planeta alienígena."
+
+🖥 3. Geração de Código (com Copilot e OpenAI Codex)
+💡 Objetivo: Automatizar tarefas e criar soluções tecnológicas.
+
+🔹 Script para automação de posts (Python + OpenAI API):
