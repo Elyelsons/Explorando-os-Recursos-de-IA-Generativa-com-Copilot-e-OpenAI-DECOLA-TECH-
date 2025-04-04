@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>barber-shop-api</h1>
+    <h1>Explorando os Recursos de IA Generativa com Copilot e OpenAI</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -22,7 +22,7 @@
 <thead>
   <tr>
     <td>
-        <p align="center">Expert</p>
+        <p align="center">Elyelson Silva</p>
         <a href="https://github.com/Elyelsons">
         <img src="https://avatars.githubusercontent.com/u/157048915?v=4&size=3" alt="@ElyshowCodes"><br>
       </a>
@@ -61,7 +61,6 @@
 
 ## 💻 Sobre o Projeto
 # Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI-DECOLA-TECH-
-Explorando os Recursos de IA Generativa com Copilot e OpenAI
 
 O que é IA generativa?
 IA: Imita o comportamento humano usando aprendizado de máquina para interagir com o ambiente e executar tarefas sem instruções explícitas sobre o que gerar.
